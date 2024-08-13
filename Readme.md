@@ -6,7 +6,7 @@
 🇮🇷 I'm a CE Student from Rasht, Iran<br>🎨 Former 3D Artist & Environment Designer<br>💻 Right now I'm focusing on Web Dev<br>📊 I'm passionate about DS | ML & look forward to pursue CS for masters by 2026
 <div align="start">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=aryanshygun&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&rank_icon=github&card_width=495px&border_radius=0px&hide_title=true" alt="Aryan's Stats" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=aryanshygun&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&rank_icon=github&card_width=455px&border_radius=0px&hide_title=true" alt="Aryan's Stats" height="165">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanshygun&theme=tokyonight&hide_border=true&card_width=495px&border_radius=0px" alt="Aryan's Streak" height="165">
     <img height=165 src="https://github-readme-activity-graph.vercel.app/graph?username=aryanshygun&border_radius=0&custom_title=activity%20graph&hide_title=true&bg_color=1a1b27&color=81A1C1&line=bf91f3&point=38bdae&area_color=38bdae&title_color=38bdae&area=true&hide_border=true&border_radius=0px"/>
     <img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanshygun&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&layout=compact&card_width=365px&border_radius=0px&hide_title=true">
