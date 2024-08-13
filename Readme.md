@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=5000&color=1383F7&width=435&lines=Hi!+Aryan+here+%F0%9F%91%8B%F0%9F%8F%BC)](https://git.io/typing-svg)<br>
 --
 🇮🇷 I'm a CE Student from Rasht, Iran<br>🎨 Former 3D Artist & Environment Designer<br>💻 Right now I'm focusing on Web Dev<br>📊 I'm passionate about DS | ML & look forward to pursue CS for masters by 2026
-<div align="start">
+<div align="center">
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=aryanshygun&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&rank_icon=github&card_width=420px&border_radius=0px&hide_title=true" alt="Aryan's Stats" height="165">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanshygun&theme=tokyonight&hide_border=true&card_width=455px&border_radius=0px" alt="Aryan's Streak" height="165">
