@@ -9,10 +9,10 @@
 - Former 3D Artist & Environment Designer
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=aryanshygun&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&rank_icon=github&card_width=420px&border_radius=0px&hide_title=true" alt="Aryan's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanshygun&theme=tokyonight&hide_border=true&card_width=455px&border_radius=0px" alt="Aryan's Streak" height="165">
-    <img height=165 src="https://github-readme-activity-graph.vercel.app/graph?username=aryanshygun&border_radius=0&custom_title=activity%20graph&hide_title=true&bg_color=1a1b27&color=81A1C1&line=bf91f3&point=38bdae&area_color=38bdae&title_color=38bdae&area=true&hide_border=true&border_radius=0px"/>
-    <img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanshygun&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&card_width=455px&border_radius=0px&hide_title=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=a-shygun&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&rank_icon=github&card_width=420px&border_radius=0px&hide_title=true" alt="Aryan's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=a-shygun&theme=tokyonight&hide_border=true&card_width=455px&border_radius=0px" alt="Aryan's Streak" height="165">
+    <img height=165 src="https://github-readme-activity-graph.vercel.app/graph?username=a-shygun&border_radius=0&custom_title=activity%20graph&hide_title=true&bg_color=1a1b27&color=81A1C1&line=bf91f3&point=38bdae&area_color=38bdae&title_color=38bdae&area=true&hide_border=true&border_radius=0px"/>
+    <img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-shygun&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&card_width=455px&border_radius=0px&hide_title=true">
   </p>
 </div>
 <!--
