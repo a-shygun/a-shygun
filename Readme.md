@@ -5,7 +5,7 @@
 </div>
 
 
-### ⚡ My Journey
+### ⚡ About Me
 - 🎓 CE Student | Northern Iran  
 - 🌐 Web Dev (HTML, CSS, JS, Tailwind, Flask)  
 - 🐍 Data Science & ML (Python, Pandas, NumPy, scikit-learn, Plotly)  
