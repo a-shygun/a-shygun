@@ -51,3 +51,9 @@
 <!--     <a href="https://reddit.com/user/Ryxnole">
         <img alt="Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"></a> -->
 </div>
+
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
