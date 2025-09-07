@@ -13,10 +13,10 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=a-shygun&theme=transparent&hide_border=true&card_width=475" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=a-shygun&theme=transparent&hide_border=true&card_width=455" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=a-shygun&theme=transparent&show_icons=true&hide_border=true&count_private=true&rank_icon=github&card_width=475" 
+    src="https://github-readme-stats.vercel.app/api?username=a-shygun&theme=transparent&show_icons=true&hide_border=true&count_private=true&rank_icon=github&card_width=455" 
   />
 
 </div>
@@ -26,7 +26,7 @@
     src="https://github-readme-stats-one-kappa-68.vercel.app/api/wakatime?username=ryxnole&layout=compact&theme=transparent&langs_count=10&hide_border=true" 
   />
   <img 
-    src="https://github-readme-stats-one-kappa-68.vercel.app/api/top-langs/?username=a-shygun&theme=transparent&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=10&card_width=475" 
+    src="https://github-readme-stats-one-kappa-68.vercel.app/api/top-langs/?username=a-shygun&theme=transparent&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=10&card_width=455" 
   />
 </div>
 
