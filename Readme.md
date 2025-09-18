@@ -1,8 +1,8 @@
-<div align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1383F7&center=true&vCenter=true&width=900&lines=Hey+There!+Let's+Build+Together+%E2%9C%A8" 
-  />
-</div>
+<!-- <div align="center"> -->
+<!--   <img  -->
+<!--     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1383F7&center=true&vCenter=true&width=900&lines=Let's+Build+Together+%E2%9C%A8"  -->
+<!--   /> -->
+<!-- </div> -->
 
 
 ### ⚡ About Me
