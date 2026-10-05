@@ -15,7 +15,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8
+          options: username=${{ github.repository_owner }}&layout=donut&theme=transparent&langs_count=5&hide_border=true
           path: profile/top-langs.svg
           token: ${{ secrets.GRS_TOKEN }}
 
@@ -26,3 +26,5 @@ jobs:
           git add profile/top-langs.svg
           git commit -m "Update top languages card" || exit 0
           git push
+
+
