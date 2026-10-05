@@ -20,3 +20,5 @@
   <img src="https://github-readme-stats-one-kappa-68.vercel.app/api/wakatime?username=ryxnole&layout=compact&theme=transparent&langs_count=10&hide_border=true"/>
 
 </div>
+
+![Top Languages](./profile/top-langs.svg)
