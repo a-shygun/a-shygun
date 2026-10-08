@@ -6,7 +6,7 @@
 </div>
 <div>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ryxnole&layout=compact&theme=transparent&langs_count=10&hide_border=true" width="60%" style="margin-left: 50%">
-  <img src="./profile/top-langs.svg" width="35%" style="vertical-align: top;">
+  <img src="./.github/profile/top-langs.svg" width="35%" style="vertical-align: top;">
 </div>
 
 ## Skills

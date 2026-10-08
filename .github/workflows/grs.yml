@@ -16,15 +16,14 @@ jobs:
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=donut&theme=transparent&langs_count=5&hide_border=true
-          path: profile/top-langs.svg
+          path: .github/profile/top-langs.svg
           token: ${{ secrets.GRS_TOKEN }}
 
       - name: Commit card
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add profile/top-langs.svg
+          git add .github/profile/top-langs.svg
           git commit -m "Update top languages card" || exit 0
           git push
-
 
