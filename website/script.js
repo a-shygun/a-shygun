@@ -2,19 +2,21 @@ const translations = {
   en: {
     navWork: "Work", navCerts: "Certificates", navActivity: "Activity", navSkills: "Skills", navAbout: "About", mainNavigation: "Main navigation", skipToContent: "Skip to content",
     themeLight: "Light", themeDark: "Dark", switchToLight: "Switch to light theme", switchToDark: "Switch to dark theme", switchLanguage: "Switch language to Persian", languageName: "فارسی",
-    heroEyebrow: "Frontend developer · Data engineer", openToWork: "Open to work", heroHi: "I build.", heroName: "With intent.",
+    heroEyebrow: "Frontend developer · Data engineer", openToWork: "Open to work", heroHi: "Amir", heroName: "Shygun",
     heroDescription: "Frontend developer by day and data engineer by night. I enjoy tuning numbers, from margins and padding to machine learning hyperparameters.",
     location: "Based in Rasht, Iran", contactMe: "Get in touch", portraitAlt: "Amir Shygun in a café in Rasht",
     openSource: "Open source",
-    workEyebrow: "The lineup", workTitle: "The Tools", dripMeta: "Python · CLI", terraMeta: "Python · Geo data", playlistrMeta: "Python · Web app",
-    dripCaption: "Terminal dashboard", terraCaption: "Interactive world map", playlistrCaption: "Music data",
-    dripLinkLabel: "Open DripFetch repository on GitHub", terraLinkLabel: "Open Terrascope repository on GitHub", playlistrLinkLabel: "Open Playlistr repository on GitHub",
-    dripMetricsLabel: "DripFetch repository metrics", terraMetricsLabel: "Terrascope repository metrics", playlistrMetricsLabel: "Playlistr repository metrics",
-    metricStars: "Stars", metricIssues: "Issues", metricPulls: "Pull requests",
+    workEyebrow: "The lineup", workTitle: "The Tools", dripMeta: "Python · CLI", terraMeta: "Python · Geo data", pawnixMeta: "Python · Chess", playlistrMeta: "Python · Web app",
+    dripCaption: "Terminal dashboard", terraCaption: "Interactive world map", pawnixCaption: "Terminal chess", playlistrCaption: "Music data",
+    dripLinkLabel: "Open DripFetch repository on GitHub", terraLinkLabel: "Open Terrascope repository on GitHub", pawnixLinkLabel: "Open Pawnix repository on GitHub", playlistrLinkLabel: "Open Playlistr repository on GitHub",
+    dripMetricsLabel: "DripFetch repository metrics", terraMetricsLabel: "Terrascope repository metrics", pawnixMetricsLabel: "Pawnix repository metrics", playlistrMetricsLabel: "Playlistr repository metrics",
+    metricStars: "Stars", metricIssues: "Issues", metricPulls: "Pull requests", metricForks: "Forks",
     dripAlt: "DripFetch terminal dashboard with system details, weather, a calendar, and animated rain",
     dripDescription: "A customizable terminal dashboard with animated Matrix-style rain. Arrange system info, logos, clocks, calendars, weather, and network graphs with one YAML config.",
     terraAlt: "Terrascope interactive world map rendered in a terminal",
     terraDescription: "An interactive world map for the terminal, with place names, live aircraft, weather, radar, earthquakes, and day/night bands.",
+    pawnixAlt: "Pawnix terminal chess game with local and online match options",
+    pawnixDescription: "A terminal chess game for local two-player matches and online play, with configurable time controls.",
     playlistrAlt: "Playlistr Spotify playlist project preview",
     playlistrDescription: "A Spotify playlist app that turns a music library into smart playlists, listening stats, and visual stories about your listening habits.",
     viewRepository: "View repository", personalProject: "Personal project",
@@ -42,19 +44,21 @@ const translations = {
   fa: {
     navWork: "پروژه‌ها", navCerts: "گواهی‌ها", navActivity: "مشارکت‌ها", navSkills: "مهارت‌ها", navAbout: "دربارهٔ من", mainNavigation: "ناوبری اصلی", skipToContent: "رفتن به محتوای اصلی",
     themeLight: "روشن", themeDark: "تیره", switchToLight: "تغییر به پوستهٔ روشن", switchToDark: "تغییر به پوستهٔ تیره", switchLanguage: "تغییر زبان به انگلیسی", languageName: "English",
-    heroEyebrow: "توسعه‌دهندهٔ فرانت‌اند · مهندس داده", openToWork: "آمادهٔ همکاری", heroHi: "می‌سازم؛", heroName: "با هدف.",
+    heroEyebrow: "توسعه‌دهندهٔ فرانت‌اند · مهندس داده", openToWork: "آمادهٔ همکاری", heroHi: "امیر", heroName: "شایگان",
     heroDescription: "روزها توسعه‌دهندهٔ فرانت‌اند هستم و شب‌ها با داده کار می‌کنم. از تنظیم عددها لذت می‌برم؛ از فاصله‌ها و حاشیه‌ها تا اَبَرپارامترهای یادگیری ماشین.",
     location: "ساکن رشت، ایران", contactMe: "در تماس باشیم", portraitAlt: "امیر شایگان در کافه‌ای در رشت",
     openSource: "متن‌باز",
-    workEyebrow: "گزیدهٔ پروژه‌ها", workTitle: "ابزارها", dripMeta: "پایتون · خط فرمان", terraMeta: "پایتون · دادهٔ مکانی", playlistrMeta: "پایتون · وب‌اپلیکیشن",
-    dripCaption: "داشبورد ترمینال", terraCaption: "نقشهٔ تعاملی جهان", playlistrCaption: "داده‌های موسیقی",
-    dripLinkLabel: "مخزن DripFetch در گیت‌هاب", terraLinkLabel: "مخزن Terrascope در گیت‌هاب", playlistrLinkLabel: "مخزن Playlistr در گیت‌هاب",
-    dripMetricsLabel: "آمار مخزن DripFetch", terraMetricsLabel: "آمار مخزن Terrascope", playlistrMetricsLabel: "آمار مخزن Playlistr",
-    metricStars: "ستاره", metricIssues: "مسئله", metricPulls: "درخواست ادغام",
+    workEyebrow: "گزیدهٔ پروژه‌ها", workTitle: "ابزارها", dripMeta: "پایتون · خط فرمان", terraMeta: "پایتون · دادهٔ مکانی", pawnixMeta: "پایتون · شطرنج", playlistrMeta: "پایتون · وب‌اپلیکیشن",
+    dripCaption: "داشبورد ترمینال", terraCaption: "نقشهٔ تعاملی جهان", pawnixCaption: "شطرنج ترمینالی", playlistrCaption: "داده‌های موسیقی",
+    dripLinkLabel: "مخزن DripFetch در گیت‌هاب", terraLinkLabel: "مخزن Terrascope در گیت‌هاب", pawnixLinkLabel: "مخزن Pawnix در گیت‌هاب", playlistrLinkLabel: "مخزن Playlistr در گیت‌هاب",
+    dripMetricsLabel: "آمار مخزن DripFetch", terraMetricsLabel: "آمار مخزن Terrascope", pawnixMetricsLabel: "آمار مخزن Pawnix", playlistrMetricsLabel: "آمار مخزن Playlistr",
+    metricStars: "ستاره", metricIssues: "مسئله", metricPulls: "درخواست ادغام", metricForks: "فورک",
     dripAlt: "داشبورد ترمینالی DripFetch با اطلاعات سیستم، وضعیت هوا، تقویم و بارش متحرک",
     dripDescription: "داشبوردی قابل‌تنظیم برای ترمینال با بارش متنی الهام‌گرفته از ماتریکس. اطلاعات سیستم، لوگو، ساعت، تقویم، وضعیت هوا و نمودار شبکه را با یک فایل YAML بچینید.",
     terraAlt: "نقشهٔ تعاملی جهان در ترمینال با Terrascope",
     terraDescription: "نقشه‌ای تعاملی از جهان در ترمینال؛ همراه با نام مکان‌ها، هواپیماهای زنده، وضعیت هوا، رادار، زمین‌لرزه و مرز شب و روز.",
+    pawnixAlt: "بازی شطرنج ترمینالی Pawnix با گزینه‌های بازی محلی و آنلاین",
+    pawnixDescription: "بازی شطرنجی در ترمینال برای رقابت دونفرهٔ محلی و بازی آنلاین، همراه با زمان‌بندی‌های قابل‌تنظیم.",
     playlistrAlt: "پیش‌نمایش پروژهٔ پلی‌لیست‌ساز Playlistr برای اسپاتیفای",
     playlistrDescription: "برنامه‌ای برای اسپاتیفای که از کتابخانهٔ موسیقی شما پلی‌لیست هوشمند، آمار شنیدن و نمودارهای شنیداری می‌سازد.",
     viewRepository: "دیدن مخزن گیت‌هاب", personalProject: "پروژهٔ شخصی",
@@ -171,7 +175,7 @@ function renderRepositoryMetrics() {
 }
 
 async function loadRepositoryMetrics() {
-  const repositories = ["dripfetch", "Terrascope", "Playlistr"];
+  const repositories = ["dripfetch", "Terrascope", "pawnix", "Playlistr"];
   await Promise.allSettled(repositories.map(async (repository) => {
     const base = `https://api.github.com/repos/a-shygun/${repository}`;
     const [repoResponse, issuesResponse, pullsResponse] = await Promise.all([
@@ -181,7 +185,7 @@ async function loadRepositoryMetrics() {
     ]);
     if (!repoResponse.ok || !issuesResponse.ok || !pullsResponse.ok) throw new Error("GitHub metrics are unavailable");
     const [repo, issues, pulls] = await Promise.all([repoResponse.json(), issuesResponse.json(), pullsResponse.json()]);
-    repositoryMetricValues.set(repository, { stars: repo.stargazers_count, issues: issues.total_count, pulls: pulls.total_count });
+    repositoryMetricValues.set(repository, { stars: repo.stargazers_count, issues: issues.total_count, pulls: pulls.total_count, forks: repo.forks_count });
     renderRepositoryMetrics();
   }));
 }
