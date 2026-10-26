@@ -85,6 +85,7 @@ const root = document.documentElement;
 const themeToggle = document.querySelector("#theme-toggle");
 const languageToggle = document.querySelector("#language-toggle");
 const languageName = document.querySelector("#language-name");
+const resumeLink = document.querySelector("#resume-link");
 const themeColor = document.querySelector('meta[name="theme-color"]');
 const repositoryMetricValues = new Map();
 let language = getPreference("portfolio-language", "en", ["en", "fa"]);
@@ -112,6 +113,7 @@ function applyLanguage(nextLanguage) {
   const rtl = language === "fa";
   root.lang = language;
   root.dir = rtl ? "rtl" : "ltr";
+  resumeLink.href = rtl ? "images/resume/amir-shygun-resume-fa.pdf" : "images/resume/amir-shygun-resume.pdf";
   document.title = rtl ? "امیر شایگان — برنامه‌نویس پایتون و دانشجوی ارشد هوش مصنوعی" : "Amir Shygun — Python Developer & AI Master's Student";
   document.querySelector('meta[name="description"]').content = rtl
     ? "امیر شایگان — برنامه‌نویس پایتون و دانشجوی ورودی کارشناسی ارشد هوش مصنوعی در رشت."
